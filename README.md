@@ -15,12 +15,10 @@ actually line up.
 
 #### Building now
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[GhostStack](https://github.com/davidlwilson2021/ghoststack)** | Auth-gated ops dashboard — turns daily task logs into AI-written EOD reports and pushes them to Slack | Cloudflare Workers · D1 · Claude API · Web Crypto |
-| **[TradeFolio](https://github.com/davidlwilson2021/TradeFolio)** | A system of record and portable professional identity for skilled tradespeople | React Native · NestJS · GraphQL · PostgreSQL |
-| **[Base Layer Labs](https://github.com/davidlwilson2021/baselayerlabs)** | The studio monorepo — the APIs, libraries, and infra behind everything above | TypeScript · pnpm · Zod |
-| **[Local Context Hub](https://github.com/davidlwilson2021/local-context-hub)** | Local-only tool that indexes your dev activity across editors and AI assistants | Python · FastAPI · SQLite |
+- **[GhostStack](https://github.com/davidlwilson2021/ghoststack)** — auth-gated ops dashboard that turns daily task logs into AI-written EOD reports and pushes them to Slack. `Cloudflare Workers · D1 · Claude API · Web Crypto`
+- **[TradeFolio](https://github.com/davidlwilson2021/TradeFolio)** — a system of record and portable professional identity for skilled tradespeople. `React Native · NestJS · GraphQL · PostgreSQL`
+- **[Base Layer Labs](https://github.com/davidlwilson2021/baselayerlabs)** — the studio monorepo: the APIs, libraries, and infra behind everything above. `TypeScript · pnpm · Zod`
+- **[Local Context Hub](https://github.com/davidlwilson2021/local-context-hub)** — local-only tool that indexes your dev activity across editors and AI assistants. `Python · FastAPI · SQLite`
 
 #### Stack
 
