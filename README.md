@@ -1,34 +1,32 @@
-### Hi, I'm David Wilson
+### David Wilson
 
-Full-stack engineer and founder of **Base Layer Labs** — I build production-grade platforms, applied data systems, and end-to-end architecture. I started in **cybersecurity**, so I design with threat models early: least privilege, safe defaults, and systems that stay maintainable under real abuse.
+I build production systems — and I run the studio that ships them.
 
-**MS Data Science — University of Phoenix (expected Dec 2026)**  
-21 of 36 credits completed in 10 months, with a strong academic run through the core stack: **relational modeling & dimensional design**, **ETL / integration & warehouse thinking**, **classical ML through deep learning**, and **inference + analytics** (hypothesis testing, regression, evaluation rigor). **Currently enrolled in Data Mining** (patterns, clustering, association rules, predictive modeling). Remaining path includes visualization, BI, governance, CRM analytics, and the capstone.
+Founder of **[Base Layer Labs](https://baselayerlabs.dev)**. I came up through
+cybersecurity, so I design threat-model first: least privilege, safe defaults, code that
+holds under real abuse. Now I'm full-stack across mobile, APIs, and serverless — and
+finishing an **MS in Data Science** (University of Phoenix, Dec 2026; 21/36 credits in
+10 months, currently in Data Mining).
 
-I like work where the **data model, the API, and the product surface** all have to line up — not demos, but systems that ship.
-
-Recent public work includes serverless tooling on Cloudflare (Workers / D1 / Pages), React Native + GraphQL apps, and Python-side local developer tooling.
+Demos are easy. I ship systems where the data model, the API, and the product surface
+actually line up.
 
 ---
 
-## Featured Projects
+#### Building now
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [GhostStack](https://github.com/davidlwilson2021/ghoststack) | Serverless ops dashboard that automates daily work call reporting with AI-generated EOD emails | Cloudflare Workers, D1, Claude API, Slack API |
-| [Base Layer Labs](https://github.com/davidlwilson2021/baselayerlabs) | Engineering studio monorepo — API server, client libraries, and infrastructure | TypeScript, pnpm workspaces, Zod |
-| [baselayerlabs.com](https://github.com/davidlwilson2021/baselayerlabs-site) | Studio landing page deployed on Cloudflare Pages | Astro 6, Tailwind v4 |
-| [Local Context Hub](https://github.com/davidlwilson2021/local-context-hub) | Local-only tool that indexes developer activity across editors and AI assistants | Python |
+| Project | What it does | Stack |
+|---|---|---|
+| **[GhostStack](https://github.com/davidlwilson2021/ghoststack)** | Auth-gated ops dashboard — turns daily task logs into AI-written EOD reports and pushes them to Slack | Cloudflare Workers · D1 · Claude API · Web Crypto |
+| **[TradeFolio](https://github.com/davidlwilson2021/TradeFolio)** | A system of record and portable professional identity for skilled tradespeople | React Native · NestJS · GraphQL · PostgreSQL |
+| **[Base Layer Labs](https://github.com/davidlwilson2021/baselayerlabs)** | The studio monorepo — the APIs, libraries, and infra behind everything above | TypeScript · pnpm · Zod |
+| **[Local Context Hub](https://github.com/davidlwilson2021/local-context-hub)** | Local-only tool that indexes your dev activity across editors and AI assistants | Python · FastAPI · SQLite |
 
-## Stack
+#### Stack
 
-**Languages:** TypeScript, Python, SQL  
-**Frontend:** React Native, Expo, Astro  
-**Backend:** NestJS, GraphQL (code-first), Cloudflare Workers  
-**Data:** PostgreSQL, Cloudflare D1, TypeORM, Pandas, NumPy  
-**Infrastructure:** Cloudflare (Pages, Workers, D1, R2), GitHub Actions  
-**Auth:** JWT, PBKDF2, Web Crypto API
+`TypeScript` · `Python` · `SQL` — React Native / Expo · NestJS / GraphQL · Cloudflare
+(Workers · D1 · Pages · R2) · PostgreSQL / TypeORM · Pandas / NumPy
 
-## Contact
+---
 
-greyhawkdiesel@gmail.com
+**[baselayerlabs.dev](https://baselayerlabs.dev)** · greyhawkdiesel@gmail.com
