@@ -1,0 +1,5 @@
+{
+  // Profile/project READMEs don't need an H1 first line or short prose lines.
+  "MD013": false,
+  "MD041": false
+}
