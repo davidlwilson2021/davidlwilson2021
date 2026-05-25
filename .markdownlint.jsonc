@@ -1,5 +1,8 @@
 {
   // Profile/project READMEs don't need an H1 first line or short prose lines.
   "MD013": false,
-  "MD041": false
+  "MD041": false,
+  // Table pipe spacing is cosmetic; a contact email is an intentional "bare URL".
+  "MD060": false,
+  "MD034": false
 }
