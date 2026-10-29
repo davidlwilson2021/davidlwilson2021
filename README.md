@@ -3,7 +3,7 @@
 Full-stack engineer and founder of **Base Layer Labs** — I build production-grade platforms, applied data systems, and end-to-end architecture. I started in **cybersecurity**, so I design with threat models early: least privilege, safe defaults, and systems that stay maintainable under real abuse.
 
 **MS Data Science — University of Phoenix (expected Dec 2026)**  
-21 of 36 credits completed in 10 months, with a strong academic run through the core stack: **relational modeling & dimensional design**, **ETL / integration & warehouse thinking**, **classical ML through deep learning**, and **inference + analytics** (hypothesis testing, regression, evaluation rigor). **Currently enrolled in Data Mining** (patterns, clustering, association rules, predictive modeling). Remaining path includes visualization, BI, governance, CRM analytics, and the capstone.
+30 of 36 credits completed in 10 months, with a strong academic run through the core stack: **relational modeling & dimensional design**, **ETL / integration & warehouse thinking**, **classical ML through deep learning**, and **inference + analytics** (hypothesis testing, regression, evaluation rigor). **Currently enrolled in Data Mining** (patterns, clustering, association rules, predictive modeling). Remaining path includes visualization, BI, governance, CRM analytics, and the capstone.
 
 I like work where the **data model, the API, and the product surface** all have to line up — not demos, but systems that ship.
 
