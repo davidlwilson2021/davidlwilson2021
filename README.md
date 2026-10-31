@@ -31,4 +31,5 @@ Recent public work includes serverless tooling on Cloudflare (Workers / D1 / Pag
 
 ## Contact
 
-greyhawkdiesel@gmail.com
+**Base Layer Labs** — [baselayerlabs.dev](https://baselayerlabs.dev)
+
